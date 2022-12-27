@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AplikasiGithubUsers_NavigationApi</string>
+    <string name="sample_repo">Repository</string>
+    <string name="sample_username">Username</string>
+    <string name="sample_fullName">Full Name</string>
+    <string name="sample_loc">Location</string>
+    <string name="sample_company">Company</string>
+    <string name="Detail_User">Detail User</string>
+    <string name="List_User">List User</string>
+    <string name="title_followers">Followers</string>
+    <string name="title_following">Following</string>
+    <string name="sample_bio">Bio</string>
+    <string name="design_by">Design By</string>
+    <string name="nama_ku">lathifatul_chusna</string>
+</resources>
